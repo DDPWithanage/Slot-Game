@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Slot Game</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="_1000">1000</string>
+    <string name="_500">500</string>
+</resources>
